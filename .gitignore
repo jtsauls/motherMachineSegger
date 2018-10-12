@@ -1,2 +1,3 @@
 weights.hdf5
 .ipynb_checkpoints
+*.pyc
